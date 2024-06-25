@@ -1,0 +1,71 @@
+
+.navbar{  background:black;
+               color: white;
+             display: flex;
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+        padding: 1px;}
+
+.navbar a{      color: #fba92c;
+               margin: 15px;
+           margin-top: 10px;
+      text-decoration: none;}
+
+.navbar-one{ font-size: larger;}
+
+.navbartwo{     margin: 20px;
+           margin-left: 20px;}
+   
+.button-one{background:#565656;
+                 color: #fba92c;
+          border-color: #fba92c;}
+
+          /* second bar start here */
+
+.main-one{   background:#fba92c; 
+                  width: 230px; height: 380px;
+                 margin: 2px;
+             margin-top: 15px;
+           margin-right: 10 px}
+
+.main-one div{margin: 20px;
+        font-size: larger;
+      margin-left: 20px;
+            color: white;}
+
+.main-two{display: flex;}
+
+#red{color: black;}
+
+
+
+ /* THIRD PORTION OF WEB PAGE  */
+
+ .main-four {background:#fba92c;
+                  color:black;}
+.main-five{  background:#9e9e9e;
+                  color:white;}
+
+.main-three{margin-left: 20px;}
+
+.main-six{background:  #fba92c; color: white}
+.main-seven{ background: #fba92c; color: white }
+
+/* footer part */
+.footer-one{background:black ;
+                 color: #fba92c;
+                height: 160px;}
+
+.footer-two{   display: flex;
+                margin:10px;}
+
+   .footer-six {margin: 20px;
+           margin-left: 300px;}
+
+.footer-five {margin: 20px;
+         margin-left: 400px;}
+
+  address{      margin: 20px;}
+  
+  .footer-three{margin-top: 30px;}
+  
+  .footer-four{ margin-top: 30px;}
